@@ -16,10 +16,12 @@ echo anyways thanks for using.
 echo press any key to: 1. edit packing.py
 echo.
 pause >nul
+title Running...
 notepad "%~dp0packing.py"
 echo press any key to: 2. start packing file
 pause >nul
 python "%~dp0packing.py"
+title Done.
 echo.
 echo thanks for using. press any key to exit
 pause >nul
