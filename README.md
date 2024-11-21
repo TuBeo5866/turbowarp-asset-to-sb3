@@ -13,8 +13,8 @@ How to use:
          1. edit packing.py by text editor (or else), follow as it says
          2. open terminal and enter the following command:
 
-         ``` cd path/to/where/packing.py/exists
-             sudo python3 packing.py ```
+         ``` cd path/to/where/packing.py/exists```
+         ```sudo python3 packing.py```
     the script will do as its work, it may take a few seconds or more, due to the size of the assets
     after doing, your project is extracted and completely made, as your ```output-dir``` had been set
     
