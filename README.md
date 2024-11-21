@@ -12,6 +12,7 @@ How to use:
      + For Linux: (needs Python 3.10 or newer installed) 
          1. edit packing.py by text editor (or else), follow as it says
          2. open terminal and enter the following command:
+         3. 
          ```
          cd path/to/where/packing.py/exists
          sudo python3 packing.py
