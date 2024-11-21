@@ -15,8 +15,9 @@ How to use:
 
          ``` cd path/to/where/packing.py/exists```
          ```sudo python3 packing.py```
-    the script will do as its work, it may take a few seconds or more, due to the size of the assets
-    after doing, your project is extracted and completely made, as your ```output-dir``` had been set
+       
+    - the script will do as its work, it may take a few seconds or more, due to the size of the assets
+    - after doing, your project is extracted and completely made, as your ```output-dir``` had been set
     
 Credits:
 - Me
