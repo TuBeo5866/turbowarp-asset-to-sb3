@@ -16,6 +16,8 @@ How to use:
     - after doing, your project is extracted and completely made, as your ```output-dir``` had been set
     
 Credits:
+- I
 - Me
+- Myself
 - ChatGPT
-- my friend
+(- ur mom)
