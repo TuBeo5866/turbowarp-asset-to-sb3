@@ -11,8 +11,9 @@ How to use:
          1. press any key to edit `packing.py`, follow as it says
          2. get back to command window, press again any key
      + For Linux: open terminal
-         1. make it can run by enter command: `chmod +x "start packing".sh`
+         1. make it able to run by enter command: `chmod +x "start packing".sh`
          2. and run it: `"./start packing.sh"`
+         3. do as windows steps
      + For Python users: simply run: `python3 packing.py` in linux terminal or windows command prompt
 - The script will do its work, all you have to is to wait. It may take a few seconds or more, due to the size of the assets.
 - After working, your project will be extracted and completely made, as your ```output-dir``` have been set.
