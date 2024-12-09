@@ -13,8 +13,8 @@ How to use:
          1. make it can run by enter command: `chmod +x "start packing".sh`
          2. and run it: `"./start packing.sh"`
      + For Python users: simply run: `python3 packing.py`
-    - the script will do its work, all you have to is to wait. It may take a few seconds or more, due to the size of the assets.
-    - after working, your project will be extracted and completely made, as your ```output-dir``` have been set.
+- The script will do its work, all you have to is to wait. It may take a few seconds or more, due to the size of the assets.
+- After working, your project will be extracted and completely made, as your ```output-dir``` have been set.
 
 Note: IF YOU SEE ERROR DON'T HESITATE TO REPORT ANY ISSUES!
 THIS IS MADE ONLY BY ME AND CHATGPT SO IT MAY HAVE SOME,
