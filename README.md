@@ -1,4 +1,4 @@
-# turbowarp-asset-to-sb3
+# Scratch Assets Converter [ZIP > SB3] 
 **An Python3 script for converting the entire assets **(images and sounds)** into an .sb3 file.**
 
 How to use:
